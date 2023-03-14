@@ -1,0 +1,39 @@
+/* .navbar-collapse{
+    flex-grow: .5;
+}
+.navbar-nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    z-index: 2;
+    list-style-type: none;
+    gap: 30px;
+    height: 100%;
+}
+.nav-item{
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-grow: 10;
+
+} */
+
+.navd{
+    background-color: rgb(133 46 79);
+}
+.nav-link{
+    color: white;
+}
+a.nhj{
+    border: 1px solid white;
+    color: white;
+}
+a.nhj:hover{
+    background-color: white;
+    color: rgb(133 46 79);
+}

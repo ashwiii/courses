@@ -1,0 +1,45 @@
+.h1t{
+font-size: 60px;
+font-family: 'Oleo Script', cursive;
+color: rgb(133 46 79);
+}
+.vvb{
+    font-family: 'Alfa Slab One', cursive;
+}
+.btng{
+    background-color:rgb(133 46 79) ;
+    border: 1px solid rgb(133 46 79);
+    color: rgb(248, 244, 245);
+}
+.form-select{
+    border: 1px solid rgb(133 46 79);
+  
+}
+.fr1{
+    color:rgb(133 46 79) ;
+    font-family:'Oleo Script', cursive;
+    font-size: 40px;
+}
+.car1{
+    border-right: none;
+    border-bottom: none;
+    box-shadow: 5px 8px rgb(197, 87, 129) ; 
+    border-radius: 20px;
+}
+.fa-check{
+    color:rgb(133 46 79) ;
+}
+.ccc{
+    font-size: 40px;
+}
+.ctc{
+    /* font-weight: bold; */
+    font-family: 'Oleo Script', cursive;
+}
+.sp{
+    color:rgb(133 46 79) ;
+}
+.spp{
+    font-family:'Oleo Script', cursive;
+    font-size: 40px;
+}
