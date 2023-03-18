@@ -1,4 +1,4 @@
-.h1t{
+/* .h1t{
 font-size: 60px;
 font-family: 'Oleo Script', cursive;
 color: rgb(133 46 79);
@@ -31,9 +31,8 @@ color: rgb(133 46 79);
 }
 .ccc{
     font-size: 40px;
-}
-.ctc{
-    /* font-weight: bold; */
+} */
+/* .ctc{
     font-family: 'Oleo Script', cursive;
 }
 .sp{
@@ -42,4 +41,42 @@ color: rgb(133 46 79);
 .spp{
     font-family:'Oleo Script', cursive;
     font-size: 40px;
+} */
+
+.sect{
+    height: 100vh;
+    background-color:#235390; 
+    background-image: url("../../assets/4986531ca822d48e57b4a18f40ff5172.svg");
+}
+.ttr{
+    color: white;
+    font-family: 'Sono', sans-serif;;
+}
+.im{
+    width: 100%;
+}
+.www{
+    width: 100%;
+}
+.www1{
+    width: 50%;
+    margin: auto;
+    background-color: #58cc02;;
+    color: white;
+    border: none;
+    font-weight: bold;
+    text-align: center;
+}
+.bgn{
+    border-left: 2px solid #083166;
+    border-top: 2px solid #083166;
+
+    border-right: 2px solid #083166;
+    border-bottom: 4px solid #083166;
+
+    border-radius: 12px;
+    color: white;
+    font-weight: bold;
+    /* width: 50%;
+    margin: auto; */
 }

@@ -24,7 +24,8 @@
 } */
 
 .navd{
-    background-color: rgb(133 46 79);
+    background-color:#235390;
+    background-image: url("../../../assets/4986531ca822d48e57b4a18f40ff5172.svg");
 }
 .nav-link{
     color: white;
@@ -36,4 +37,9 @@ a.nhj{
 a.nhj:hover{
     background-color: white;
     color: rgb(133 46 79);
+}
+.navbar-brand{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
 }
