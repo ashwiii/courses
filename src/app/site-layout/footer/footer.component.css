@@ -1,0 +1,16 @@
+.sect{
+    background-color: #235390;
+    background-image:url("../../../assets/4986531ca822d48e57b4a18f40ff5172.svg");
+}
+.head{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+ul li{
+    list-style: none;
+    text-align: center;
+}
+.ac{
+    color: white;
+}
