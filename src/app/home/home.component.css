@@ -52,6 +52,10 @@ color: rgb(133 46 79);
     color: white;
     font-family: 'Sono', sans-serif;;
 }
+.hh{
+    font-family: 'Sono', sans-serif;
+
+}
 .im{
     width: 100%;
 }
@@ -79,4 +83,24 @@ color: rgb(133 46 79);
     font-weight: bold;
     /* width: 50%;
     margin: auto; */
+}
+.sm{
+    color: gray;
+}
+.car1{
+    border: none;
+}
+.ct{
+    color: gray;
+}
+.fr1{
+    font-family: 'Sono', sans-serif;
+}
+hr{
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 2px;
+    background: black;
+    margin-bottom: 50px;
 }
